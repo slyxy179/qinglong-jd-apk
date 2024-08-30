@@ -6,11 +6,11 @@ public class Config {
 
 
     // 青龙后台地址，请修改
-    public static final String QL_URL = "REPLACE_QL_URL";
+    public static final String QL_URL = "http://qinglong.wzjzxl.top/";
 
     // 接口信息，请修改
-    public static String QL_CLIENT_ID = "REPLACE_QL_CLIENT_ID";
-    public static String QL_CLIENT_SECRET = "REPLACE_QL_CLIENT_SECRET";
+    public static String QL_CLIENT_ID = "1CHFi83a_Sb0";
+    public static String QL_CLIENT_SECRET = "VwLSDlFXF4c5LWoI_F14UOyG";
 
 
 
